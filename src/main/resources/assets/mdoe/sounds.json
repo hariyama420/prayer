@@ -1,0 +1,11 @@
+{
+  "bell": {
+    "category": "players",
+    "sounds": [
+      {
+        "name": "mdoe:bell",
+        "stream": false
+      }
+    ]
+  }
+}
