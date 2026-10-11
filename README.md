@@ -14,6 +14,6 @@
 ## Сборка проекта (Build)
 Склонируйте репозиторий и соберите JAR-файл с помощью Gradle:
 ```bash
-git clone https://github.com/hariyama420/mdoe.git
+git clone https://github.com/hariyama420/prayer.git
 cd mdoe
 ./gradlew build
